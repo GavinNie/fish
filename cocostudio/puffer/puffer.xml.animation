@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\migong\fish\cocostudio\puffer</ProjectDir>
+  <Version>1.3.0.1</Version>
+  <Resources>D:\migong\fish\cocostudio\puffer\Resources</Resources>
+  <Name>puffer</Name>
+  <JsonFileName>puffer.json</JsonFileName>
+  <JsonFolder>D:\migong\fish\cocostudio\puffer\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\migong\fish\cocostudio\puffer\puffer.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList>
+    <string>puffer0.plist</string>
+    <string>puffer1.plist</string>
+    <string>puffer2.plist</string>
+    <string>puffer3.plist</string>
+  </ResourceFileList>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

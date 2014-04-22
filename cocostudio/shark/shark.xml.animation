@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\migong\fish\cocostudio\shark</ProjectDir>
+  <Version>1.3.0.1</Version>
+  <Resources>D:\migong\fish\cocostudio\shark\Resources</Resources>
+  <Name>shark</Name>
+  <JsonFileName>shark.json</JsonFileName>
+  <JsonFolder>D:\migong\fish\cocostudio\shark\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\migong\fish\cocostudio\shark\shark.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList>
+    <string>shark0.plist</string>
+    <string>shark1.plist</string>
+    <string>shark2.plist</string>
+    <string>shark3.plist</string>
+    <string>shark4.plist</string>
+  </ResourceFileList>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

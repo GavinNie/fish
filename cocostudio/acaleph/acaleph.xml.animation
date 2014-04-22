@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\migong\fish\cocostudio\acaleph</ProjectDir>
+  <Version>1.3.0.1</Version>
+  <Resources>D:\migong\fish\cocostudio\acaleph\Resources</Resources>
+  <Name>acaleph</Name>
+  <JsonFileName>acaleph.json</JsonFileName>
+  <JsonFolder>D:\migong\fish\cocostudio\acaleph\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\migong\fish\cocostudio\acaleph\acaleph.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList>
+    <string>acaleph0.plist</string>
+    <string>acaleph1.plist</string>
+  </ResourceFileList>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

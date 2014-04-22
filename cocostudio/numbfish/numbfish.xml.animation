@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\migong\fish\cocostudio\numbfish</ProjectDir>
+  <Version>1.3.0.1</Version>
+  <Resources>D:\migong\fish\cocostudio\numbfish\Resources</Resources>
+  <Name>numbfish</Name>
+  <JsonFileName>numbfish.json</JsonFileName>
+  <JsonFolder>D:\migong\fish\cocostudio\numbfish\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\migong\fish\cocostudio\numbfish\numbfish.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList>
+    <string>numbfish0.plist</string>
+    <string>numbfish1.plist</string>
+    <string>numbfish2.plist</string>
+  </ResourceFileList>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>
